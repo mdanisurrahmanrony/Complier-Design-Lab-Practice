@@ -1,0 +1,7 @@
+6
+A=T*A
+T=XY
+T=bc
+T=de
+X=cb
+Z=Ax

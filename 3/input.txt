@@ -1,0 +1,6 @@
+int a,k;
+a = 5;
+k = 3;
+if(a > k){
+    printf("a is greater");
+}
